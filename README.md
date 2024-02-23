@@ -3,10 +3,11 @@
 
 ## Flow control
 
-![flow_structure](https://whimsical.com/us-visa-approval-KsMYm1FbRxHzNKgct6uWoD@2Ux7TurymN1y7gy1v7Q8)
+
+![](https://whimsical.com/us-visa-approval-KsMYm1FbRxHzNKgct6uWoD)
 
 
-![superman](https://wallpapercave.com/wp/wp5779651.jpg)
+
 
 # Git commands
 
