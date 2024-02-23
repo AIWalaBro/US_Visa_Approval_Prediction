@@ -3,10 +3,8 @@
 
 ## Flow control
 
-![flow_structure](https://whimsical.com/us-visa-approval-KsMYm1FbRxHzNKgct6uWoD@2Ux7TurymN1y7gy1v7Q8)
+![us_visa_approval](https://github.com/AIWalaBro/US_Visa_Approval_Prediction/assets/114975609/24e41f77-8c97-4d9f-87de-c22e3f65c623)
 
-
-![superman](https://wallpapercave.com/wp/wp5779651.jpg)
 
 # Git commands
 
