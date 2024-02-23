@@ -1,12 +1,11 @@
 # US_Visa_Approval_Prediction
 
 
+
 ## Flow control
 
 
-![](https://whimsical.com/us-visa-approval-KsMYm1FbRxHzNKgct6uWoD)
-
-
+![us_visa_approval_updated](https://github.com/AIWalaBro/US_Visa_Approval_Prediction/assets/114975609/8af342f8-eafe-4b2c-90fa-e3d5b4e93e8b)
 
 
 # Git commands
