@@ -3,7 +3,7 @@
 
 ## Flow control
 
-![flow_structure]("D:\MLOPS_Projects\US_Visa_Approval_Prediction\flowchart\us_visa_approval.png")
+![flow_structure](https://whimsical.com/us-visa-approval-KsMYm1FbRxHzNKgct6uWoD@2Ux7TurymN1y7gy1v7Q8)
 
 # Git commands
 
