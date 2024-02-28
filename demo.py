@@ -5,4 +5,5 @@ from us_visa.exception import US_VisaErrorException
 try:
     a = 1/"a"
 except Exception as e:
+    logging.info(e)
     raise US_VisaErrorException(e, sys) from e
